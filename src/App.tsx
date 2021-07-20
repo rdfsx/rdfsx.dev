@@ -28,9 +28,7 @@ function Page() {
                     <Paragraph text1={"playlist:"} text2={"Spotify"}
                                link={"https://open.spotify.com/user/27urfgjsrtgszbucbb8wxnyo8?si=ffc3f0443335450f"} />
                     <br />
-                    <h5>
-                        © 2021 | website is under construction
-                    </h5>
+                    <h5>© 2021 | website is under construction</h5>
                 </article>
             </header>
         </div>
