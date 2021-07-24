@@ -1,6 +1,6 @@
 {
-  "name": "untitled",
-  "homepage": "https://rdfsx.dev/",
+  "name": "rdfsx.dev",
+  "homepage": "http://rdfsx.dev/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
