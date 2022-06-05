@@ -25,7 +25,7 @@ function Page() {
                     <Paragraph text1={"contact:"} text2={"Telegram"} link={"https://t.me/rdfsx"} />
                     <Paragraph text1={"social media:"} text2={"Linkedin"}
                                link={"https://linkedin.com/in/mikhail-anishchanka"} />
-                    <Paragraph text1={"english:"} text2={"B1"} />
+                    <Paragraph text1={"english:"} text2={"intermediate"} />
                     <br />
                     <h5>© 2022 | website is under construction</h5>
                 </article>
